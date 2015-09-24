@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+#form-bg { border: 1px solid #C7D6DB; width: 1024px; margin: 0 auto; background-color: #FFF; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 10px; margin-top: 65px; position: relative; }
+
+#form-lcol { width: 800px; }
+
+.lgs-button .quick-links.gmail {
+	width: 488px;
+	height: 304px;
+	top: -215px;
+	right: -480px;
+}
