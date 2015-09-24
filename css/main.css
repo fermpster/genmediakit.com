@@ -107,36 +107,36 @@ p strong, ul strong { font-family: "Lucida Grande", "Lucida Sans Unicode", "Luci
 span.nav-text { position: absolute; left: -9999px; }
 
 #nav01 {
-	width: 150px;
-	background: url(../img/nav01.png) no-repeat 0 0;
+	width: 133px;
+	background: url(../img/nav07.png) no-repeat 0 0;
 }
 
 #nav01:hover, #nav01.selected  { background-position: 0 -95px; }
 
 #nav02 {
-	width: 135px;
-	background: url(../img/nav02.png) no-repeat 0 0;
+	width: 150px;
+	background: url(../img/nav01.png) no-repeat 0 0;
 }
 
 #nav02:hover, #nav02.selected  { background-position: 0 -95px; }
 
 #nav03 {
-	width: 153px;
-	background: url(../img/nav03.png) no-repeat 0 0;
+	width: 135px;
+	background: url(../img/nav02.png) no-repeat 0 0;
 }
 
 #nav03:hover, #nav03.selected  { background-position: 0 -95px; }
 
 #nav04 {
-	width: 128px;
-	background: url(../img/nav04.png) no-repeat 0 0;
+	width: 153px;
+	background: url(../img/nav03.png) no-repeat 0 0;
 }
 
 #nav04:hover, #nav04.selected  { background-position: 0 -95px; }
 
 #nav05 {
-	width: 166px;
-	background: url(../img/nav05.png) no-repeat 0 0;
+	width: 128px;
+	background: url(../img/nav04.png) no-repeat 0 0;
 }
 
 #nav05:hover, #nav05.selected  { background-position: 0 -95px; }
@@ -149,8 +149,8 @@ span.nav-text { position: absolute; left: -9999px; }
 #nav06:hover, #nav06.selected  { background-position: 0 -95px; }
 
 #nav07 {
-	width: 133px;
-	background: url(../img/nav07.png) no-repeat 0 0;
+	width: 166px;
+	background: url(../img/nav05.png) no-repeat 0 0;
 }
 
 #nav07:hover, #nav07.selected  { background-position: 0 -95px; }
