@@ -79,6 +79,16 @@ p strong, ul strong { font-family: "Lucida Grande", "Lucida Sans Unicode", "Luci
 }
 
 .head-text { position: absolute; top: 52px; right: 30px; }
+.date-loc { position: absolute; top: 32px; right: 30px; }
+.date-loc p { 
+	font-family: "myriad-pro",sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 21px;
+	letter-spacing: -1px;
+	color: #b43335;
+	font-weight: bold;
+}
 .head-text p {
 	font-family: "myriad-pro",sans-serif;
 	font-style: normal;
@@ -408,6 +418,8 @@ p.large.sml-after { margin-bottom: 10px; }
 
 .right-tabcol li { margin-bottom: 8px; line-height: 17px; }
 
+.right-tabcol li.ms { line-height: 22px; }
+
 .rep-right { position: absolute; top: 52px; left: 875px; }
 
 h2.rates-contact {
@@ -521,9 +533,9 @@ p.last.lgs-button { position: relative; width: 242px; height: 44px; }
 
 /* Newsletter */
 
-#newstab-01-img01 { position: absolute; top: 65px; left: 30px; }
-#newstab-02-img01 { position: absolute; top: 65px; left: 30px; }
-#newstab-03-img01 { position: absolute; top: 65px; left: 30px; }
+#newstab-01-img01 { position: absolute; top: 80px; left: 30px; }
+#newstab-02-img01 { position: absolute; top: 80px; left: 50px; }
+#newstab-03-img01 { position: absolute; top: 80px; left: 30px; }
 
 /* Leads */
 

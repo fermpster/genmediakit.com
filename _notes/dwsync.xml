@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="bioperspective-video.swf" server="bloommedia.com//GEN/GEN_Pos/" local="130232083240000000" remote="130257204000000000" Dst="2" />
-<file name="BioPerspectives.html" server="bloommedia.com//GEN/GEN_Pos/" local="130265163010000000" remote="130265063400000000" Dst="2" />
 <file name="GEN-Leads.html" server="bloommedia.com//GEN/GEN_Pos/" local="130268703770781770" remote="130268595600000000" Dst="2" />
 <file name="GEN-Magazine.html" server="bloommedia.com//GEN/GEN_Pos/" local="130265162999604462" remote="130265063400000000" Dst="2" />
 <file name="GEN-Website.html" server="bloommedia.com//GEN/GEN_Pos/" local="130268711564497545" remote="130268603400000000" Dst="2" />
@@ -16,8 +14,6 @@
 <file name="SkinOverPlaySeekMute.swf" server="bloommedia.com//GEN/GEN_Pos/" local="129776124080000000" remote="130257205200000000" Dst="2" />
 <file name="GEN-e-Newsletters.html" server="bloommedia.com//GEN/GEN_Pos/" local="130268364112694692" remote="130268256000000000" Dst="2" />
 <file name="GEN-Leads.html" server="0387ea7.netsolhost.com//bloom-staging/GEN/genmediakit-ms/" local="130311145707478721" remote="130311325200000000" Dst="1" />
-<file name="bioperspective-video.swf" server="0387ea7.netsolhost.com//bloom-staging/GEN/genmediakit-ms/" local="130270168975280867" remote="130307921400000000" Dst="1" />
-<file name="BioPerspectives.html" server="0387ea7.netsolhost.com//bloom-staging/GEN/genmediakit-ms/" local="130310735674880637" remote="130310928000000000" Dst="1" />
 <file name="GEN-e-Newsletters.html" server="0387ea7.netsolhost.com//bloom-staging/GEN/genmediakit-ms/" local="130310736948465822" remote="130310928000000000" Dst="1" />
 <file name="GEN-Magazine.html" server="0387ea7.netsolhost.com//bloom-staging/GEN/genmediakit-ms/" local="130310738410000000" remote="130310928000000000" Dst="1" />
 <file name="GEN-Website.html" server="0387ea7.netsolhost.com//bloom-staging/GEN/genmediakit-ms/" local="130310741570783266" remote="130310928000000000" Dst="1" />
@@ -30,8 +26,6 @@
 <file name="SkinOverPlaySeekMute.swf" server="0387ea7.netsolhost.com//bloom-staging/GEN/genmediakit-ms/" local="130270168981387201" remote="130307921400000000" Dst="1" />
 <file name="social-video.swf" server="0387ea7.netsolhost.com//bloom-staging/GEN/genmediakit-ms/" local="130270168981816943" remote="130307921400000000" Dst="1" />
 <file name="website-video.swf" server="0387ea7.netsolhost.com//bloom-staging/GEN/genmediakit-ms/" local="130270168982336631" remote="130307921400000000" Dst="1" />
-<file name="BioPerspectives.html" server="ftp.theflashaddict.com//staging/bloom/gen/" local="130406914753965044" remote="130406806800000000" Dst="2" />
-<file name="bioperspective-video.swf" server="ftp.theflashaddict.com//staging/bloom/gen/" local="130313356680000000" remote="130366286400000000" Dst="2" />
 <file name="GEN-e-Newsletters.html" server="ftp.theflashaddict.com//staging/bloom/gen/" local="130406913330853647" remote="130406805000000000" Dst="2" />
 <file name="GEN-Leads.html" server="ftp.theflashaddict.com//staging/bloom/gen/" local="130406915844487419" remote="130406808000000000" Dst="2" />
 <file name="GEN-Magazine.html" server="ftp.theflashaddict.com//staging/bloom/gen/" local="130406915843507363" remote="130406808000000000" Dst="2" />
@@ -50,6 +44,10 @@
 <file name="GEN-Touch-Video.fla" server="ftp.theflashaddict.com//staging/bloom/gen/" local="130398028233689221" remote="130397921400000000" Dst="2" />
 <file name="GEN-Touch-Video.swf" server="ftp.theflashaddict.com//staging/bloom/gen/" local="130407532907103335" remote="130407427200000000" Dst="2" />
 <file name="SteelOverPlayMute.swf" server="ftp.theflashaddict.com//staging/bloom/gen/" local="129776124080000000" remote="130397921400000000" Dst="2" />
-<file name="GEN-Mobile-Social.html" server="ftp.bloom-staging.com//bloom-staging/genmediakit.com/" local="130881907263083551" remote="130882050600000000" Dst="2" />
-<file name="GEN-e-Newsletters.html" server="ftp.bloom-staging.com//bloom-staging/genmediakit.com/" local="130881912113824152" remote="130882055400000000" Dst="2" />
+<file name="GEN-Mobile-Social.html" server="ftp.bloom-staging.com//bloom-staging/genmediakit.com/" local="130881984835505192" remote="130882125600000000" Dst="2" />
+<file name="GEN-e-Newsletters.html" server="ftp.bloom-staging.com//bloom-staging/genmediakit.com/" local="130882025299112364" remote="130882167000000000" Dst="2" />
+<file name="index.html" server="ftp.bloom-staging.com//bloom-staging/genmediakit.com/" local="130882030158354298" remote="130882173600000000" Dst="2" />
+<file name="GEN-Magazine.html" server="ftp.bloom-staging.com//bloom-staging/genmediakit.com/" local="130881962271481408" remote="130882105800000000" Dst="2" />
+<file name="GEN-Website.html" server="ftp.bloom-staging.com//bloom-staging/genmediakit.com/" local="130882031447624923" remote="130882175400000000" Dst="2" />
+<file name="GEN-Leads.html" server="ftp.bloom-staging.com//bloom-staging/genmediakit.com/" local="130881980847899561" remote="130882113000000000" Dst="2" />
 </dwsync>
