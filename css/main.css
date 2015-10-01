@@ -398,6 +398,8 @@ p.large, ul.large {
 	margin-bottom: 20px;
 }
 
+p.large.sml-after { margin-bottom: 10px; }
+
 .right-tabcol p.large.mb30 { margin-bottom: 30px; }
 
 .right-tabcol img.extra { margin-bottom: 10px; }
@@ -554,9 +556,14 @@ p.last.lgs-button { position: relative; width: 242px; height: 44px; }
 #mobiletab-01-img01 {
 	position: absolute;
 	top: 95px;
-	left: 55px;
+	left: 45px;
 }
 #mobiletab-02-img01 {
+	position: absolute;
+	top: 95px;
+	left: 50px;
+}
+#mobiletab-03-img01 {
 	position: absolute;
 	top: 95px;
 	left: 50px;
